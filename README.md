@@ -2,11 +2,11 @@
 
 This project predicts whether a passenger survived the Titanic disaster using machine learning techniques. The dataset is preprocessed, analyzed, and a classification model is trained to make survival predictions.
 
-📌 Project Overview
+📌 **Project Overview**
 
 The sinking of the Titanic is one of the most famous shipwrecks in history. In this project, we build a machine learning model that learns from passenger data such as age, gender, class, and fare to predict survival.
 
-🧠 Machine Learning Workflow
+🧠 **Machine Learning Workflow**
 
 Load the Titanic dataset
 
@@ -22,7 +22,7 @@ Train a Random Forest Classifier
 
 Evaluate model performance
 
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 
 Python
 
@@ -38,7 +38,7 @@ Scikit-learn
 
 Jupyter Notebook / Google Colab
 
-📂 Dataset
+📂 **Dataset**
 
 The dataset used is Titanic-Dataset.csv, which contains the following features:
 
@@ -66,7 +66,7 @@ Cabin
 
 Embarked
 
-⚙️ Model Used
+⚙️ **Model Used**
 
 Random Forest Classifier
 
@@ -78,7 +78,7 @@ RandomForestClassifier for prediction
 
 Accuracy score for evaluation
 
-📊 Data Preprocessing
+📊 **Data Preprocessing**
 
 Missing values handled using mean/mode
 
@@ -88,7 +88,7 @@ Unnecessary columns removed
 
 Data cleaned for model training
 
-📈 Model Evaluation
+📈 *Model Evaluation**
 
 The model performance is evaluated using:
 
@@ -120,3 +120,7 @@ titanic_sets.ipynb
 📌 Results
 
 The trained machine learning model predicts passenger survival based on input features and achieves good accuracy on test data.
+🚢 Titanic Survival Prediction using Machine Learning
+📌 Project Description
+
+This project predicts whether a passenger survived the Titanic disaster using machine learning techniques. The dataset is cleaned, analyzed, and a classification model is trained to make predictions based on passenger features such as age, gender, class, and fare.
